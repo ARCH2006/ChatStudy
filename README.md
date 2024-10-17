@@ -136,8 +136,6 @@ if __name__ == '__main__':
 ![Screenshot 2024-10-17 225227](https://github.com/user-attachments/assets/53590ef5-238e-4488-8fff-e2b19181dbf7)
 
 ![image](https://github.com/user-attachments/assets/6c5670bb-09ed-4a32-81ef-0fbc29593c88)
-
-
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
